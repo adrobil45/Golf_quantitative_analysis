@@ -2,7 +2,7 @@
 
 Author: Adrien ROBILIARD
 
-## Introduction
+### Introduction
 The aim of this project was to analyse golf players’ performances from different variables at US Open tournaments over 4 years. Different aspects of a “data project” were developed here: web scrapping, data preprocessing, data exploration, storytelling, machine learning and data visualisation.
 
 ### Repository content: 
